@@ -18,18 +18,20 @@ I'm a **Full-Stack Developer** with expertise in building scalable web applicati
 ## 💼 Work Experience  
 
 ### **Associate Consultant | NTT DATA Business Solutions** _(Jun 2022 – Present)_  
-- Developed key features using **UI5**, **Node.js**, and **HANA DB**.  
-- Enhanced back-end functionality: **error handling, request validation, rate limiting**.  
-- Worked on **Angular-based admin portals** with **TypeScript, CronJobs, and Worker Threads**.  
-- Managed deployments using **Jenkins, Cloud Foundry**, and wrote unit tests with **Jest**.  
+- Developed key features using **UI5** for the front-end, **Node.js, Express.js, HANA DB** for the back-end.  
+- Enhanced back-end functionality by improving **error handling, request validation, rate-limiter and SonarQube**.  
+- Worked on developing admin portal features with **Angular, Node.js, Express.js in TypeScript**.  
+- Implemented job scheduling functionality in the admin portal using **CronJob** and **Worker Threads**.
+- Managed deployment using **Jenkins, Cloud Foundry**, and created unit test cases with **Jest** to ensure code quality.
 
 ### **Package Specialist | IBM** _(Jul 2020 – Jun 2022)_  
-- Built a **full-stack enrollment web application** with **React.js, Node.js, and MongoDB**.  
-- Implemented **unit tests with Jest** to ensure high code quality.  
+- Collaborated with a team to build a full stack enrollment web application from scratch.
+- Designed and developed a responsive front-end using **React.js**, and implemented scalable back-end APIs with **Node.js and MongoDB** to streamline enrollment processes.  
+- Implemented unit test cases with **Jest**, adhering to best coding practices to ensure code quality and reliability..  
 
 ### **Associate Systems Engineer | IBM** _(Jul 2019 – Jul 2020)_  
-- Worked with **performance testing tools** (LoadRunner, APICA, Performance Center).  
-- Automated report generation using **Java plugins and Excel**.  
+- Worked with various performance testing tools such as **LoadRunner, APICA, Performance Center, ALT, AppDynamics, Splunk, Postman, and AppWatch**. Automated report generation using **Java plugins** and Excel. 
+- Worked with the program team, the AD team, and the QA team to gather requirements.  
 
 ## 🎓 Education  
 🎓 **B.E in Electronics and Communication Engineering** – B.M.S College of Engineering (2015 – 2019)  
@@ -37,10 +39,12 @@ I'm a **Full-Stack Developer** with expertise in building scalable web applicati
 
 ## 🚀 Projects  
 ### **Service Hub** _(Jan 2020 – Mar 2020)_  
-A **MERN stack web application** that connects users with service providers, inspired by **Urban Company**.  
+Developed a dynamic **MERN stack web application** that facilitates connections between users and service
+providers across various domains, inspired by features of platforms like Urban Company.  
 
 ### **Secured Data Transmission Using Video Steganography** _(Jan 2019 – Apr 2019)_  
-Developed **MATLAB** code to securely hide text/images in videos using **LSB and Blowfish algorithms**.  
+Worked as a team to develop MATLAB code to securely hide text or image in video using LSB and Blowfish
+algorithms for enhanced security.
 
 ## 📫 Connect with Me  
 💼 **GitHub:** [Vedraj-Joshi](https://github.com/Vedraj-Joshi)  
